@@ -2,7 +2,7 @@
 
 ### Senior Generative AI Engineer | Dallas–Fort Worth, TX
 
-I build production-grade **Generative AI** and **Agentic AI** systems — RAG pipelines, multi-agent workflows, and LLM-powered applications — with 10+ years of experience in AI/ML and cloud engineering.
+I build production-grade **Generative AI** and **Agentic AI** systems — RAG pipelines, multi-agent workflows, and LLM-powered applications — with 7+ years of experience in AI/ML and cloud engineering.
 
 Currently at **Legal & General America**, delivering AI solutions in the financial services domain.
 

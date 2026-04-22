@@ -81,7 +81,7 @@ Real-time computer vision project using OpenCV and MediaPipe for pose estimation
 ## 📜 Certifications
 
 - 🏅 **AWS Certified Machine Learning Engineer – Associate**
-- 📚 GCP Professional ML Engineer *(in progress)*
+- 📚 GCP Generative AI leader *(in progress)*
 
 ---
 
